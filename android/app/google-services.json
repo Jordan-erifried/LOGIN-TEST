@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "979916341770",
+    "project_id": "ivoire-trendy-85eff",
+    "storage_bucket": "ivoire-trendy-85eff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979916341770:android:c0c489aeca8db7c09455f3",
+        "android_client_info": {
+          "package_name": "com.example.competition"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979916341770-2j800ass1q59hsn2qset1j8fc48u0jrc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9Ro4OM_QEP4J7BDu7f7aoygssjLRWlS8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979916341770-2j800ass1q59hsn2qset1j8fc48u0jrc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
